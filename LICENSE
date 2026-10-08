@@ -1,0 +1,81 @@
+CUSTOM SOURCE-AVAILABLE LICENSE
+
+Copyright (c) 2026 [Rebeca N. Moreira da Costa / Jojo's Birthday]
+
+1. DEFINITIONS
+For the purposes of this License:
+"Software" means the source code, scripts, configuration files, documentation, and other code-based components contained in this repository.
+"Original Assets" means all non-code materials created, selected, compiled, or provided by the original author, including but not limited to images, photographs, illustrations, icons, logos, graphics, videos, audio, text, datasets, informational content, documentation content, and other media or materials contained in or distributed with the Software.
+"Derivative Work" means any project, software, application, website, or other work that is based upon, incorporates, modifies, or derives from the Software.
+"Original Project" means the software project contained in this repository in its original form as published by the copyright holder.
+
+2. RIGHTS TO THE SOFTWARE
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Software to:
+* view the source code;
+* copy and clone the repository;
+* modify the source code;
+* create Derivative Works based on the Software;
+* use the modified source code for personal, educational, commercial, or other lawful purposes.
+
+This permission does not grant any rights to the Original Assets.
+
+3. RESTRICTIONS ON ORIGINAL ASSETS
+The Original Assets are NOT licensed under the permissions granted to the Software.
+
+Unless expressly authorized in writing by the copyright holder, no person may:
+* copy, reproduce, redistribute, or republish the Original Assets;
+* use the Original Assets in another project;
+* include the Original Assets in a Derivative Work;
+* modify or transform the Original Assets for use in another project;
+* use the Original Assets for commercial or non-commercial purposes outside the Original Project;
+* remove, alter, or conceal copyright notices or ownership information associated with the Original Assets.
+
+Creating a Derivative Work does not grant the right to retain, copy, or reuse the Original Assets.
+
+If a Derivative Work requires assets, the person creating the Derivative Work must replace the Original Assets with their own assets or assets for which they have obtained the appropriate rights.
+
+4. ATTRIBUTION AND AUTHORSHIP
+A person may create and publish a Derivative Work based on the Software, provided that they do not represent the Original Project as their own creation.
+Any public distribution of a Derivative Work must clearly acknowledge that the work is based on the Original Project.
+The following, or substantially similar, notice must be retained in the project documentation:
+"This project is based on Jojo's Birthday by Rebeca Costa."
+
+The creator of a Derivative Work may claim authorship only over the original modifications and additions they personally created. They may not claim authorship of the Original Project or its original components.
+
+The following actions are prohibited:
+* claiming that the Original Project was created by someone other than its original author;
+* removing attribution to the original author;
+* presenting an unmodified or substantially unmodified copy of the Original Project as an independently created project;
+* falsely implying that the original author endorses, sponsors, or is affiliated with a Derivative Work.
+
+5. TRADEMARKS AND BRANDING
+This License does not grant permission to use the name, logo, trademarks, service marks, branding, or other identifiers belonging to the copyright holder.
+A Derivative Work must not use the branding of the Original Project in a manner that suggests that the Derivative Work is the official Original Project or is endorsed by its original author.
+
+6. COPYRIGHT
+The Software and Original Assets remain the property of their respective copyright holders.
+No ownership or copyright interest in the Original Project or Original Assets is transferred by this License.
+Modifying or creating a Derivative Work does not transfer ownership of the original portions of the Software or Original Assets.
+
+7. THIRD-PARTY MATERIAL
+This License applies only to material for which the copyright holder has the legal authority to grant these permissions.
+Third-party software, libraries, assets, fonts, datasets, images, or other materials included in or used by the project remain subject to their respective licenses and terms.
+Nothing in this License grants rights to third-party materials that the copyright holder does not own or control.
+
+8. TERMINATION
+Any rights granted under this License automatically terminate if a person violates the terms of this License.
+Upon termination, the person must cease the unauthorized use, distribution, or reproduction of the affected material, subject to any rights that cannot legally be terminated.
+
+9. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+10. RESERVATION OF RIGHTS
+All rights not expressly granted by this License are reserved by the copyright holder.
+This License does not grant any rights beyond those expressly stated above.
+
+---
+
+Copyright (c) 2026 [YOUR NAME / PROJECT NAME]
+
+All rights reserved except as expressly granted by this License.

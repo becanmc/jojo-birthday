@@ -1,0 +1,21 @@
+.button{
+    font-family: var(--font-primary);
+
+    background-color: var(--color-green);
+    color: var(--color-white);
+
+    border: none;
+    border-radius: var(--border-radius);
+    height: var(--height);
+    font-size: var(--font-size-5);
+    font-weight: 300;
+
+    transition: .5s;
+    cursor: pointer;
+}
+
+.button:hover{
+    font-weight: 500;
+
+    background-color: var(--color-green-dark);
+}

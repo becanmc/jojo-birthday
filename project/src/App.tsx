@@ -1,7 +1,8 @@
 import TestComponentsPage from "./pages/TestComponents";
+import LoginPage from "./pages/LoginPage/LoginPage";
 
 function App() {
-	return <TestComponentsPage />;
+	return <LoginPage />;
 }
 
 export default App;

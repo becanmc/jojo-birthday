@@ -1,0 +1,7 @@
+.camera_frame{
+    width: 200px;
+    height: 300px;
+    
+    border-radius: 100%;
+    border: 1px solid var(--color-dark-gray);
+}

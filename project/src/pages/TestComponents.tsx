@@ -5,6 +5,8 @@ import Text from "../components/atoms/Text/Default/Text";
 import QuizButton from "../components/atoms/Buttons/Quiz/QuizButton";
 import TypeWriter from "../components/atoms/Text/Typewriter/Typewriter";
 import CameraFrame from "../components/atoms/CameraFrame/CameraFrame";
+import LoginContainer from "../components/organisms/LoginContainer/LoginContainer";
+
 
 function TestComponentsPage(){
     return(<div>
@@ -16,6 +18,7 @@ function TestComponentsPage(){
         <TypeWriter strings={['oi', 'como ce tá?', 'eu quero saber a cor da sua calcinha']}/>
         <QuizButton width={'400px'} correct={true} >Teste ne bb</QuizButton>
         <CameraFrame></CameraFrame>
+        <LoginContainer/>
     </div>);
 }
  

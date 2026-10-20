@@ -19,7 +19,8 @@ function TestComponentsPage(){
         <QuizButton width={'400px'} correct={true} >Teste ne bb</QuizButton>
         <CameraFrame></CameraFrame>
         <LoginContainer/>
-    </div>);
+    </div>
+    );
 }
  
 export default TestComponentsPage;

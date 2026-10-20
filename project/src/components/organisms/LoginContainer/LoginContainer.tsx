@@ -10,11 +10,11 @@ function LoginContainer(){
             <Title color="green">Confirme que você é a Jojo</Title>
 
             <div className={styles.inputs}>
-                <Input width={'90%'}>Insira o nome do seu cachorro</Input>
-                <Input width={'90%'}>Insira o seu sobrenome mais difícil</Input>
+                <Input width={'98%'}>Insira o nome do seu cachorro</Input>
+                <Input width={'98%'}>Insira o seu sobrenome mais difícil</Input>
             </div>
 
-            <Button width={'80%'}>Entrar</Button>
+            <Button width={'100%'}>Entrar</Button>
         </div>
     );
 }

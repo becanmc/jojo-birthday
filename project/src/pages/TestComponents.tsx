@@ -6,7 +6,7 @@ import QuizButton from "../components/atoms/Buttons/Quiz/QuizButton";
 import TypeWriter from "../components/atoms/Text/Typewriter/Typewriter";
 import CameraFrame from "../components/atoms/CameraFrame/CameraFrame";
 import LoginContainer from "../components/organisms/LoginContainer/LoginContainer";
-import InputWithLabel from "../components/molecules/InputWIthLabel/InputWithLabel";
+import InputWithLabel from "../components/molecules/uai/InputWIthLabel/InputWithLabel";
 
 function TestComponentsPage(){
     return(<div>

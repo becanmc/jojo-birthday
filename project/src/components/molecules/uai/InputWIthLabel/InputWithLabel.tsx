@@ -1,8 +1,8 @@
 import React from "react";
 import styles from "./InputWithLabel.module.css"
 
-import Input from "../../atoms/Input/Input";
-import Label from "../../atoms/Label/Label";
+import Input from "../../../atoms/Input/Input";
+import Label from "../../../atoms/Label/Label";
 
 type InputWithLabelProps = {
     label: string;
@@ -10,6 +10,8 @@ type InputWithLabelProps = {
     labelProps?: React.LabelHTMLAttributes<HTMLLabelElement>;
     inputProps?: React.InputHTMLAttributes<HTMLInputElement>;
 }
+
+// teste
 
 function InputWithLabel({
         label, placeholder, labelProps, inputProps

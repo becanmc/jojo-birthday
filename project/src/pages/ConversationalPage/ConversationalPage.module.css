@@ -1,0 +1,18 @@
+.content{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.typewriter_content{
+    background-color: aqua;
+    width: 60%;
+    height: auto;
+}
+
+.countdown {
+    margin: 10px;
+    font-family: var(--font-primary);
+}

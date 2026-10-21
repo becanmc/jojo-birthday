@@ -6,7 +6,7 @@ import QuizButton from "../components/atoms/Buttons/Quiz/QuizButton";
 import TypeWriter from "../components/atoms/Text/Typewriter/Typewriter";
 import CameraFrame from "../components/atoms/CameraFrame/CameraFrame";
 import LoginContainer from "../components/organisms/LoginContainer/LoginContainer";
-
+import InputWithLabel from "../components/molecules/InputWIthLabel/InputWithLabel";
 
 function TestComponentsPage(){
     return(<div>
@@ -19,6 +19,10 @@ function TestComponentsPage(){
         <QuizButton width={'400px'} correct={true} >Teste ne bb</QuizButton>
         <CameraFrame></CameraFrame>
         <LoginContainer/>
+        <InputWithLabel 
+            label="Qual o nome do sei cachorro?" 
+            placeholder="Insira o nome aqui"
+        />
     </div>
     );
 }

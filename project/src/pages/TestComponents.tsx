@@ -7,6 +7,7 @@ import TypeWriter from "../components/atoms/Text/Typewriter/Typewriter";
 import CameraFrame from "../components/atoms/CameraFrame/CameraFrame";
 import LoginContainer from "../components/organisms/LoginContainer/LoginContainer";
 import InputWithLabel from "../components/molecules/InputWIthLabel/InputWithLabel";
+import TriviaContainer from "../components/organisms/TriviaContainer/TriviaContainer";
 
 function TestComponentsPage(){
     return(<div>
@@ -23,6 +24,10 @@ function TestComponentsPage(){
             label="Qual o nome do sei cachorro?" 
             placeholder="Insira o nome aqui"
         />
+
+        <TriviaContainer answers={[['haha', true], 
+            ['bleble', false], 
+            ['mira me', false]]}>A pergunta é tal</TriviaContainer>
     </div>
     );
 }

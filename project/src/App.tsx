@@ -1,8 +1,7 @@
-import ConversationalPage from "./pages/ConversationalPage/ConversationalPage";
-import TestComponentsPage from "./pages/TestComponents";
+import TriviaPage from "./pages/TriviaPage/TriviaPage";
 
 function App() {
-	return <TestComponentsPage />;
+	return <TriviaPage />;
 }
 
 export default App;

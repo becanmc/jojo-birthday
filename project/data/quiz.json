@@ -2,71 +2,111 @@
     {
         "id": 1,
         "category": "easy",
-        "question": "Lorem Ipsum Dolor?",
-        "options": ["Option_1", "Option_2", "Option_3", "Option_4"],
-        "answer": "Option_1"
+        "question": "Qual o signo da Jojo?",
+        "options": [
+            ["Libra", false], 
+            ["Escorpião", true], 
+            ["Virgem 🤣", false], 
+            ["Sagitário", false]
+        ]
     },
     {
-        "id": 1,
+        "id": 2,
         "category": "easy",
-        "question": "",
-        "options": ["", ""],
-        "answer": ""
+        "question": "Qual a verdadeira escrita de 'Jojo'?",
+        "options": [
+            ["Jojo", false], 
+            ["Jôjo", false], 
+            ["GioGio", true], 
+            ["JioJio", false]
+        ]
     },
     {
-        "id": 1,
+        "id": 3,
         "category": "easy",
-        "question": "",
-        "options": ["", ""],
-        "answer": ""
+        "question": "Qual o signo da Jojo?",
+        "options": [
+            ["Verde", true], 
+            ["Vermelho PT", false], 
+            ["Rosa lésbico", false], 
+            ["A cor dos olhos da Rebeca", false]
+        ]
     },
     {
-        "id": 1,
+        "id": 4,
         "category": "easy",
-        "question": "",
-        "options": ["", ""],
-        "answer": ""
+        "question": "Qual curso a Jojo faz?",
+        "options": [
+            ["Turismo", true], 
+            ["Relações Internacionais", false], 
+            ["Relações Públicas", false], 
+            ["Psicologia", false]
+        ]
     },
     {
-        "id": 1,
-        "category": "easy",
-        "question": "",
-        "options": ["", ""],
-        "answer": ""
+        "id": 5,
+        "category": "medium",
+        "question": "Qual o nome do web namorado da colega de quarto dela?",
+        "options": [
+            ["Flávio", false], 
+            ["Davi", false], 
+            ["Fábio", false], 
+            ["João", true]
+        ]
     },
     {
-        "id": 1,
-        "category": "easy",
-        "question": "",
-        "options": ["", ""],
-        "answer": ""
+        "id": 6,
+        "category": "medium",
+        "question": "Qual a data exata que a Jojo foi embora (</3) pela primeira vez para Espanha?",
+        "options": [
+            ["12/06/2024", false], 
+            ["12/06/2024", false], 
+            ["12/06/2024", false], 
+            ["12/06/2024", true]
+        ]
     },
     {
-        "id": 1,
-        "category": "easy",
-        "question": "",
-        "options": ["", ""],
-        "answer": ""
+        "id": 7,
+        "category": "medium",
+        "question": "Qual os últimos dois dígitos do CPF da mão da Jojo?",
+        "options": [
+            ["23", false], 
+            ["67 🤣", true], 
+            ["27", false], 
+            ["13 ⭐", false]
+        ]
     },
     {
-        "id": 1,
-        "category": "easy",
-        "question": "",
-        "options": ["", ""],
-        "answer": ""
+        "id": 8,
+        "category": "hard",
+        "question": "Que dia exato a Jojo foi embora para Espanha pela primeira vez?",
+        "options": [
+            ["23/08/2025", false], 
+            ["13/08/2025", true], 
+            ["13/09/2025", false], 
+            ["12/09/2025", false]
+        ]
     },
     {
-        "id": 1,
-        "category": "easy",
-        "question": "",
-        "options": ["", ""],
-        "answer": ""
+        "id": 9,
+        "category": "hard",
+        "question": "undefined (abot: fanfic)",
+        "options": [
+            ["a", true], 
+            ["b", false], 
+            ["c", false], 
+            ["d", false]
+        ]
     },
     {
-        "id": 1,
-        "category": "easy",
-        "question": "",
-        "options": ["", ""],
-        "answer": ""
+        "id": 10,
+        "category": "hard",
+        "question": "No dia 31/08/26, a Jojo disse que concordava comigo e queria um objeto específico. Qual é esse objeto?",
+        "options": [
+            ["Flip Phone ", false], 
+            ["Vitrola", false], 
+            ["Camera fotográfica", false], 
+            ["mp3", true]
+        ]
     }
 ]

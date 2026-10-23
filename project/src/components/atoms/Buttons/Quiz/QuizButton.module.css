@@ -14,7 +14,19 @@
     cursor: pointer;
 }
 
-.button:hover{
+.button:hover:not(:disabled){
     background-color: var(--color-light-gray);
     font-weight: 500;
+}
+
+.green{
+    background-color: var(--color-green);
+    border: 1px solid var(--color-green-dark);
+    color: white
+}
+
+.red{
+    background-color: rgba(255, 0, 0, 0.575);
+    border: 1px solid rgb(145, 0, 0);
+    color: white;
 }

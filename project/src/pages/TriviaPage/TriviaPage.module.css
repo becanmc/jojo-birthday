@@ -1,0 +1,14 @@
+.content {
+	min-height: 100vh;
+	padding: 24px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 1.5rem;
+}
+
+.progress,
+.result {
+	text-align: center;
+}

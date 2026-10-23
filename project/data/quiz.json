@@ -24,7 +24,7 @@
     {
         "id": 3,
         "category": "easy",
-        "question": "Qual o signo da Jojo?",
+        "question": "Qual a cor favorita da Jojo?",
         "options": [
             ["Verde", true], 
             ["Vermelho PT", false], 
@@ -46,7 +46,7 @@
     {
         "id": 5,
         "category": "medium",
-        "question": "Qual o nome do web namorado da colega de quarto dela?",
+        "question": "Qual o nome do web namorado da colega de quarto da Jojo?",
         "options": [
             ["Flávio", false], 
             ["Davi", false], 
@@ -59,16 +59,16 @@
         "category": "medium",
         "question": "Qual a data exata que a Jojo foi embora (</3) pela primeira vez para Espanha?",
         "options": [
-            ["12/06/2024", false], 
-            ["12/06/2024", false], 
-            ["12/06/2024", false], 
-            ["12/06/2024", true]
+            ["12/09/2025", false], 
+            ["13/06/2025", false], 
+            ["13/08/2025", true], 
+            ["14/08/2025", false]
         ]
     },
     {
         "id": 7,
         "category": "medium",
-        "question": "Qual os últimos dois dígitos do CPF da mão da Jojo?",
+        "question": "Qual os últimos dois dígitos do CPF da mãe da Jojo?",
         "options": [
             ["23", false], 
             ["67 🤣", true], 
@@ -79,12 +79,12 @@
     {
         "id": 8,
         "category": "hard",
-        "question": "Que dia exato a Jojo foi embora para Espanha pela primeira vez?",
+        "question": "Qual é o animal que a Jojo parece quando está de óculos?",
         "options": [
-            ["23/08/2025", false], 
-            ["13/08/2025", true], 
-            ["13/09/2025", false], 
-            ["12/09/2025", false]
+            ["Esquilo", false], 
+            ["Mosca", false], 
+            ["Pato", false], 
+            ["Abelhinha", true]
         ]
     },
     {

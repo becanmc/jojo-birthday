@@ -4,14 +4,15 @@
     box-shadow: var(--shadow);
     overflow: hidden;
 
-    width: 200px;
-    height: 300px;
+    box-sizing: border-box;
+    flex: 0 0 180px;
+    width: 180px;
+    height: 260px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     transform: perspective(900px) rotateY(0deg);
     transform-style: preserve-3d;
-    transition: transform 600ms ease;
+    transition: transform 600ms ease, box-shadow 180ms ease;
 
     cursor: pointer;
 }
@@ -24,16 +25,34 @@
     transform: rotateY(180deg);
 }
 
+.card:hover{
+    transform: perspective(900px) rotateY(0deg) scale(1.02);
+    box-shadow: 0 14px 24px rgba(0, 0, 0, 0.2);
+}
+
+.card:has(.image):hover{
+    transform: perspective(900px) rotateY(180deg) scale(1.02);
+}
+
 .image{
     width: 100%;
-    height: 280px;
+    height: 220px;
+    flex: 0 0 220px;
     object-fit: cover;
     object-position: center;
 }
 
 .name{
     width: 100%;
+    height: 40px;
+    flex: 0 0 40px;
+    box-sizing: border-box;
     background-color: var(--color-white);
+    text-align: center;
+    padding: 10px 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 @media (prefers-reduced-motion: reduce){

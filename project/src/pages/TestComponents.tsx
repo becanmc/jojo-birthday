@@ -8,6 +8,7 @@ import CameraFrame from "../components/atoms/CameraFrame/CameraFrame";
 import LoginContainer from "../components/organisms/LoginContainer/LoginContainer";
 import InputWithLabel from "../components/molecules/InputWIthLabel/InputWithLabel";
 import TriviaContainer from "../components/organisms/TriviaContainer/TriviaContainer";
+import PeopleCard from "../components/molecules/Cards/PeopleCard/PeopleCard";
 
 function TestComponentsPage(){
     return(<div>
@@ -28,6 +29,10 @@ function TestComponentsPage(){
         <TriviaContainer answers={[['haha', true], 
             ['bleble', false], 
             ['mira me', false]]}>A pergunta é tal</TriviaContainer>
+
+        <PeopleCard img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0KHmu_shLxkxr5p_IZtPSu2XK_fJ-1p6E1XzBQQlM7d_1BNN3gCTZo3-mfzrhRRgSqJQlrPm-ObVGKpKgmENe5eI9rvPzQzNdiho8urA&s=10">
+            Ariana Grand bb
+        </PeopleCard>
     </div>
     );
 }

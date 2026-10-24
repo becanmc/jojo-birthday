@@ -1,6 +1,5 @@
 .timelineSection {
-    width: 100%;
-    padding: 260px 24px;
+    width: 90%;
     box-sizing: border-box;
     background: var(--color-white);
 }
@@ -184,6 +183,7 @@
 
     margin: 0;
     padding: 10px;
+    line-height: 1.1rem;
 }
 
 @media (max-width: 600px) {

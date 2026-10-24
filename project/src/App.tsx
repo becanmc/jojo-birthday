@@ -1,8 +1,7 @@
-import TriviaPage from "./pages/TriviaPage/TriviaPage";
-import TestComponentsPage from "./pages/TestComponents";
+import Timeline from "./components/organisms/Timeline/Timeline";
 
 function App() {
-	return <TestComponentsPage />;
+	return <Timeline />;
 }
 
 export default App;

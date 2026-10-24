@@ -1,7 +1,7 @@
-import Timeline from "./components/organisms/Timeline/Timeline";
+import TimelinePage from "./pages/TimelinePage/TimelinePage";
 
 function App() {
-	return <Timeline />;
+	return <TimelinePage />;
 }
 
 export default App;

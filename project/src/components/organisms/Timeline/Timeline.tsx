@@ -1,15 +1,16 @@
-import timelineData from "../../../../data/timeline.json";
 import styles from "./Timeline.module.css";
 
-type TimelineEvent = {
+export type TimelineEvent = {
     ano: number;
     descricao: string;
     imagem: string;
 };
 
-// const events = timelineData as TimelineEvent[];
+type TimelineProps = {
+    events: TimelineEvent[];
+};
 
-function Timeline(events : TimelineEvent[]) {
+function Timeline({ events }: TimelineProps) {
     return (
         <section className={styles.timelineSection} aria-label="Linha do tempo">
             <ol className={styles.timeline}>
